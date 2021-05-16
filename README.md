@@ -1,2 +1,2 @@
-# -teaching
+# Share knowledge
 Collaborative learning repository
